@@ -1,0 +1,7 @@
+streamlit
+numpy
+pandas
+scikit-learn
+tensorflow
+matplotlib
+openai  # If using GPT-3.5 commentary
